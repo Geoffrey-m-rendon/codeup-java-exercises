@@ -24,12 +24,12 @@ public class HelloWorld {
         * You cannot/shouldn't use reserved words for names within variables.
         */
 
-        String theNumberThree = "three";
-        Object o = theNumberThree;
-        int three = (int) "three";
+//        String theNumberThree = "three";
+//        Object o = theNumberThree;
+//        int three = (int) "three";
 
         int ab = 4;
-        x += 5;
+        ab += 5;
 
         int abc = 3;
         int y = 4;
@@ -47,8 +47,8 @@ public class HelloWorld {
          * Just like with ALL Primitives Types the value has to stay--
          * --within a certain specified value.
          */
-        int whatIf = 2147483648;
-        System.out.println(whatIf);
+//        int whatIf = 2147483648;
+//        System.out.println(whatIf);
 
     }
 }
